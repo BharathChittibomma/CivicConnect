@@ -82,12 +82,6 @@ Citizens can submit complaints with descriptions, location, and images, while ad
 
 - MySQL
 
-## Maps & Location
-
-- Leaflet.js
-- OpenStreetMap
-- Browser Geolocation API
-
 ## Development Tools
 
 - Git
